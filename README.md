@@ -17,8 +17,8 @@ AWS · Terraform · Prometheus · Grafana
 → Market Data Distribution Platform — Kafka/MSK, regime detection, OpenTelemetry
 → Financial Intelligence Platform — XGBoost, SHAP, SEBI compliance
 
-**Writing:** dev.to/sharankumar
-**LinkedIn:** [link]
+**Writing:** [dev.to/sharankumar](https://dev.to/sharanthummala)
+**LinkedIn:** [[link](https://www.linkedin.com/in/sharan-kumar-thummala/)]
 
 <!--
 **ThummalaSharanKumar/ThummalaSharanKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
